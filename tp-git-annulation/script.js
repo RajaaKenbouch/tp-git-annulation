@@ -1,4 +1,4 @@
 console.log("Application démarrée");
 function init(){
-    console.log("Initialisation...")
+    console.log("Initialisation")
 }
